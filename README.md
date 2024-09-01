@@ -28,7 +28,7 @@ The team is parting ways, and we'll be shutting down the organizy parts of Purpl
 
 This doesn't have to be the end tho! Purple Bubble lives on in the heart of open source! The github organization will remain up and anyone who wants to continue on Purple Bubble can continue to do so by making PRs! I can't promise I'll always review them right away, but I definitely will whenever I can, and you can always email me at me@jaspermayone.com to give me a bit of a nudge. 😉 
 
-Additionally, several of us have amazing newsletters you can sign up for to learn about our amazing projects, I highly encourage ya'll to go sign up for them! Most of them are linked to the person's name in this email, and mine can be found here. (Thank you for enduring some small shameless self promo 😊) We're also going to keep this newsletter up and running, and members of the team might occasionally send some updates when they do cool and exiting things! (one might be coming very soon for one of my new projects!)
+Additionally, several of us have amazing newsletters you can sign up for to learn about our amazing projects, I highly encourage ya'll to go sign up for them! Most of them are linked to the person's name in this email, and mine can be found [here](https://jaspermayone.com). (Thank you for enduring some small shameless self promo 😊) We're also going to keep this newsletter up and running, and members of the team might occasionally send some updates when they do cool and exiting things! (one might be coming very soon for one of my new projects!)
 
 In our final acts as a team, some of us are also investigating the creation of some form of coding online community, more on that to come soon when we've concluded our last bits of research.
 
